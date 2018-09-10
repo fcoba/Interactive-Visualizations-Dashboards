@@ -26,13 +26,14 @@ function personInfoFunc(personId) {
 function buildCharts(sample) {
 
   // @TODO: Use `d3.json` to fetch the sample data for the plots
-  
+
   // const url = "/samples/"+sample;
   // d3.json(url).then(
   //   (bacteriaData) => {
 
   //   }
-  )
+  // )
+  
     // @TODO: Build a Bubble Chart using the sample data
 
     // @TODO: Build a Pie Chart
