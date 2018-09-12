@@ -2,6 +2,8 @@ import os
 
 import pandas as pd
 import numpy as np
+# import plotly.plotly as py
+# import plotly.graph_objs as go
 
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
